@@ -2,7 +2,7 @@
 #include<string>																	  //class string
 #include<fstream>																	  //class i/o fstream
 #include <cstdlib>
-
+//fuck you ass hole
 using namespace std;
 
 typedef struct student{																  //student information
